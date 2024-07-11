@@ -1,0 +1,26 @@
+
+<html>
+    <h1>
+        Greetings, I'm Albert
+    </h1>
+    <body>
+        <h2>About me</h2>
+        <p>
+             Currently I am a warehouse associate and cyber security student. I've been on this journey for more than a year now, 
+             but my passion for computers has been with me for much longer. Last year, with the support of my employer, I participated 
+             in a cyber security boot camp, which opened my eyes to many new concepts and sparked my appreciation for Linux OS. 
+             After successfully completing the boot camp, I took the Security+ exam and passed, marking a significant milestone in my journey.
+        <p>
+            Currently, I'm focused on breaking into the field. I'm enrolled in TCM's PEH course to delve into network penetration testing. My 
+            initial goal is to obtain the PNPT certification, and thereafter, I aim to pursue the OSCP certification. With my strong work ethic 
+            and determination, I'm confident in my ability to succeed in this exciting field of cyber security. Feel free to reach out to me!
+        <p>
+        <h2>What I'm working on</h2>
+        <p>
+            As of right now I will be taking TCM's PJPT, following that I will take the PNPT exam. After the PNPT I will be preparing to pursue
+            the OSCP certification.
+        <p>
+            Peace!
+        <p>
+    </body>
+</html>
